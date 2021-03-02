@@ -1,7 +1,9 @@
-### Hi there 👋
+### Sup folks! 👊🏻
 
 ### About
-Badges<br/>
+Software developer, engineer and cat enthusiast.
+
+#### Badges<br/>
 [![gpg badge](https://img.shields.io/keybase/pgp/haarolean)](https://raw.githubusercontent.com/Haarolean/Haarolean/master/gpg.asc)
 [![github badge](https://img.shields.io/github/followers/haarolean?label=Follow&style=social)](https://github.com/haarolean)
 
@@ -11,7 +13,7 @@ Badges<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haarolean&hide=css,sourcepawn&layout=compact)](https://github.com/haarolean/github-readme-stats)
 
 
-How to contact me:<br/>
+#### How to contact me:<br/>
 [![Telegram URL](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/haarolean)<br/>
 [![Email URL](https://img.shields.io/badge/email-grey?style=flat&logo=gmail&labelColor=white)](mailto:github@haarolean.dev)<br/>
 Other social media:<br/>
