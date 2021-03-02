@@ -2,8 +2,8 @@
 
 ### About
 Badges<br/>
-![gpg badge](https://img.shields.io/keybase/pgp/haarolean)
-![github badge](https://img.shields.io/github/followers/haarolean?label=Follow&style=social)
+[![gpg badge](https://img.shields.io/keybase/pgp/haarolean)](https://raw.githubusercontent.com/Haarolean/Haarolean/master/gpg.asc)
+[![github badge](https://img.shields.io/github/followers/haarolean?label=Follow&style=social)](https://github.com/haarolean)
 
 
 [![Haarolean's github stats](https://github-readme-stats.vercel.app/api?username=haarolean&count_private=true&show_icons=true)](https://github.com/haarolean/github-readme-stats)
