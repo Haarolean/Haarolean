@@ -11,11 +11,11 @@ Digital nomad, software developer, engineer and a cat enthusiast.
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haarolean&hide=css,sourcepawn&layout=compact)](https://github.com/haarolean/github-readme-stats)
 <br/>
-<br/>
+
 #### How to contact me:<br/>
 [![gpg badge](https://img.shields.io/keybase/pgp/haarolean)](https://github.com/haarolean.gpg)<br/>
-Discord: Haarolean#7357
-For kafka-ui related issues please use the official methods of communications.
+Discord: Haarolean#7357<br/>
+For kafka-ui related issues please use the official methods of communications.<br/>
 
 #### Other social media:<br/>
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fhaarolean)](https://twitter.com/haarolean)<br/>
