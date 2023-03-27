@@ -1,7 +1,7 @@
-## Sup folks!
+## Yo
 
 ### About
-Software developer, engineer and cat enthusiast.
+Digital nomad, software developer, engineer and a cat enthusiast.
 
 #### Badges<br/>
 [![github badge](https://img.shields.io/github/followers/haarolean?label=Follow&style=social)](https://github.com/haarolean)
@@ -13,10 +13,10 @@ Software developer, engineer and cat enthusiast.
 <br/>
 <br/>
 #### How to contact me:<br/>
-[![gpg badge](https://img.shields.io/keybase/pgp/haarolean)](https://raw.githubusercontent.com/Haarolean/Haarolean/master/gpg.asc)<br/>
-[![Telegram URL](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/haarolean)<br/>
-[![Email URL](https://img.shields.io/badge/email-grey?style=flat&logo=gmail&labelColor=white)](mailto:github@haarolean.dev)<br/>
-All the messages regarding job offers are accepted only via linkedin. Otherwise they're ignored and reported as spam.
+[![gpg badge](https://img.shields.io/keybase/pgp/haarolean)](https://github.com/haarolean.gpg)<br/>
+Discord: Haarolean#7357
+For kafka-ui related issues please use the official methods of communications.
+
 #### Other social media:<br/>
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fhaarolean)](https://twitter.com/haarolean)<br/>
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/haarolean/)<br/>
