@@ -1,7 +1,7 @@
 ## Yo
 
 ### About
-Digital nomad, software developer, engineer and a cat enthusiast.
+Digital nomad, software developer, engineer, and cat enthusiast.
 
 #### Badges<br/>
 [![github badge](https://img.shields.io/github/followers/haarolean?label=Follow&style=social)](https://github.com/haarolean)
@@ -14,8 +14,8 @@ Digital nomad, software developer, engineer and a cat enthusiast.
 
 #### How to contact me:<br/>
 [![gpg badge](https://img.shields.io/keybase/pgp/haarolean)](https://github.com/haarolean.gpg)<br/>
-Discord: Haarolean#7357<br/>
-For kafka-ui related issues please use the official methods of communications.<br/>
+Discord: Haarolean<br/>
+For kafka-ui related issues please use the official methods of communication.<br/>
 
 #### Other social media:<br/>
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fhaarolean)](https://twitter.com/haarolean)<br/>
