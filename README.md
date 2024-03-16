@@ -41,7 +41,7 @@ For support, please use the corresponding repositories' ways of communication (i
   ![Static Badge](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white)
 
 <!-- links -->
-[kafka-ui]: https://github.com/provectus/kafka-ui
+[kafka-ui]: https://github.com/kafbat/kafka-ui
 [Kapybro]: https://kapybro.dev
 
 [Website]: https://haarolean.dev/
@@ -59,5 +59,5 @@ For support, please use the corresponding repositories' ways of communication (i
 [Linkedin icon]: https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue
 [Insta icon]: https://img.shields.io/badge/Instagram-C13584?style=flat&logo=instagram&labelColor=white
 [gh follow icon]: https://img.shields.io/github/followers/haarolean?label=Follow&style=social
-[gh sponsor icon]: https://img.shields.io/github/sponsors/haarolean?logo=GitHub&label=Sponsor&message=%E2%9D%A4
+[gh sponsor icon]: https://img.shields.io/github/sponsors/haarolean?logo=githubsponsors&logoColor=%23EA4AAA&label=Sponsor
 [gpg icon]: https://img.shields.io/keybase/pgp/haarolean?label=GPG%20key
