@@ -1,47 +1,32 @@
-<div align="center">
+### Hey, I'm Roma!
+
+💻 Digital nomad, software developer, engineer and cat enthusiast
+
+### What I'm working on rn
+
+- **[kafka-ui]** is a versatile, fast and lightweight web UI for managing kafka clusters. (previously [provectus/kafka-ui][kafka-ui-old])
+- **[Kapybro]** is a github app for automating maintainer's work, as triaging and feedback management.
   
-  # :wave: Henlo
 
-  Digital nomad, software developer, engineer, and cat enthusiast
-
-  [![Website icon]][Website]
-  [![Linkedin icon]][Linkedin]
-  [![Twi icon]][Twi]
-  [![Insta icon]][Insta]
-  
-  ### Like my work?
-
+### Want to support my open source work?
   [![gh sponsor icon]][gh sponsor]
   [![gh follow icon]][gh]
 
-</div>
 
-## :gem: Showcase
+### :mailbox: Contact me
+**Support requests** go to the repo (issues/discussions).  
+**For other topics**, use the email in my github profile.  
+[gpg key][gpg]
 
-- **[kafka-ui]** is a versatile, fast and lightweight web UI for managing kafka clusters.
-- **[Kapybro]** is a github app for automating maintainer's work, as triaging and feedback management.
-- Other less popular and inactive projects can be found in repo list.
-
-
-<details>
-  <summary>Nerd stats</summary>
-  
-  [![Haarolean's github stats](https://github-readme-stats.vercel.app/api?username=haarolean&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/haarolean/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haarolean&hide=css,sourcepawn&layout=compact)](https://github.com/haarolean/github-readme-stats)
-  <br/>
-  
-</details>
-
-## :mailbox: Contact me
-For support, please use the corresponding repositories' ways of communication (issues, discussions)
-
-  [![gpg icon]][gpg]
-
-  ![Static Badge](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white)
+### Links
+[Website]
+[Linkedin]
+[Twitter][Twi]
+[Instagram][Insta]
 
 <!-- links -->
 [kafka-ui]: https://github.com/kafbat/kafka-ui
+[kafka-ui-old]: https://github.com/provectus/kafka-ui
 [Kapybro]: https://kapybro.dev
 
 [Website]: https://haarolean.dev/
@@ -60,4 +45,3 @@ For support, please use the corresponding repositories' ways of communication (i
 [Insta icon]: https://img.shields.io/badge/Instagram-C13584?style=flat&logo=instagram&labelColor=white
 [gh follow icon]: https://img.shields.io/github/followers/haarolean?label=Follow&style=social
 [gh sponsor icon]: https://img.shields.io/github/sponsors/haarolean?logo=githubsponsors&logoColor=%23EA4AAA&label=Sponsor
-[gpg icon]: https://img.shields.io/keybase/pgp/haarolean?label=GPG%20key
